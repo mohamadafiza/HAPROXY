@@ -11,5 +11,7 @@ Bug report here https://github.com/anzclan/HAPROXY/issues
 <pre><code>apt install curl -y && apt update && apt upgrade -y && bash -c "$(wget -qO- https://source.dotycat.com/COMINGSOON)"</code></pre>
 
 # SCREENSHOT
+<center>
 ![ss](https://raw.githubusercontent.com/anzclan/HAPROXY/main/photo_2023-01-19_23-03-30.jpg)
 ![ss](https://raw.githubusercontent.com/anzclan/HAPROXY/main/photo_2023-01-19_23-03-29.jpg)
+  </center>
