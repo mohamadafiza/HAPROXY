@@ -1,7 +1,9 @@
 # HAPROXY
 
 # OS LINUX DEBIAN 10+ ONLY !!!
-### IF U INSTALL ON OTHER OS, DONT ASK ME IF FAILL TO INSTALL!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+### IF U INSTALL ON OTHER OS, DONT ASK ME IF FAILL TO INSTALL!
+
+Bug report here https://github.com/anzclan/HAPROXY/issues
 
 ### https://www.dotycat.com
 
