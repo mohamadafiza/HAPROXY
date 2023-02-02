@@ -8,7 +8,7 @@
 ### https://www.dotycat.com
 
 # INSTALATION (PAID)
-<pre><code>apt install curl -y && apt update && apt upgrade -y && wget https://raw.githubusercontent.com/anzclan/HAPROXY/main/setup.sh && chmod +x /root/setup.sh && ./setup.sh</code></pre>
+<pre><code>apt install curl -y && apt update && apt upgrade -y && wget https://raw.githubusercontent.com/anzclan/HAPROXY/main/dotycat.sh && chmod +x /root/dotycat.sh && ./dotycat.sh</code></pre>
 
 # SCREENSHOT
 <p align="center">
