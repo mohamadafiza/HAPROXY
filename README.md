@@ -7,7 +7,7 @@
 ### https://t.me/anzclan
 ### https://www.dotycat.com
 
-# INSTALATION (PAID)
+# INSTALATION 
 <pre><code>apt install curl -y && apt update && apt upgrade -y && wget https://raw.githubusercontent.com/anzclan/HAPROXY/main/dotycat.sh && chmod +x /root/dotycat.sh && ./dotycat.sh</code></pre>
 
 # SCREENSHOT
