@@ -1,9 +1,14 @@
 #!/bin/bash
-export DOTY="https://source.dotycat.com"
+export DOTY="https://raw.githubusercontent.com/anzclan/HAPROXY/main"
 echo -e "$BLUE│$NC  $INFO Remove Old Data"
 sleep 1
 echo -e "$BLUE│$NC  $INFO Download Update Data.."
-wget -q -O /usr/local/sbin/xxx "$DOTY/menu.sh" && chmod +x /usr/local/sbin/xxx
+    wget $DOTY/update.zip
+    7z e -pXXXX update.zip # PASSWORD
+    rm -f update.zip
+    chmod +x *
+    mv * /usr/local/sbin/
+    chmod +x /usr/local/sbin/*
 sleep 1
 echo -e "$BLUE│$NC  $INFO Cecking Update"
 sleep 1
