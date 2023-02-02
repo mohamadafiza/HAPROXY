@@ -9,7 +9,7 @@
 
 ### https://www.dotycat.com
 
-# INSTALATION (COMMING SOON)
+# INSTALATION (PAID)
 <pre><code>apt install curl -y && apt update && apt upgrade -y && wget https://raw.githubusercontent.com/anzclan/HAPROXY/main/setup.sh && chmod +x /root/setup.sh && ./setup.sh"</code></pre>
 
 # SCREENSHOT
