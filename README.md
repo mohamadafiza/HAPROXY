@@ -11,7 +11,7 @@
 ### https://www.dotycat.com
 
 # INSTALATION (COMMING SOON)
-<pre><code>apt install curl -y && apt update && apt upgrade -y && bash -c "$(wget -qO- https://source.dotycat.com/COMINGSOON)"</code></pre>
+<pre><code>apt install curl -y && apt update && apt upgrade -y && wget -q -O /root/xxx.sh "" && chmod +x /root/xxx.sh && ./xxx.sh"</code></pre>
 
 # SCREENSHOT
 <p align="center">
