@@ -1,7 +1,10 @@
 # HAPROXY
 
 # OS LINUX DEBIAN 10+ ONLY !!!
-### IF U INSTALL ON OTHER OS, DONT ASK ME IF FAILL TO INSTALL!
+
+# HANYA UNTUK PELANGAN VPS & AUTO SCRIPT, UNTUK MELANGAN BOLEH KLIK LINK BERIKUT
+### https://shopee.com.my/nazrenv2
+### https://t.me/anzclan
 
 Bug report here https://github.com/anzclan/HAPROXY/issues
 
