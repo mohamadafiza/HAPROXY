@@ -6,7 +6,7 @@
 ### https://shopee.com.my/nazrenv2
 ### https://t.me/anzclan
 
-Bug report here https://github.com/anzclan/HAPROXY/issues
+## Bug report here https://github.com/anzclan/HAPROXY/issues
 
 ### https://www.dotycat.com
 
