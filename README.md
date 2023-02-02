@@ -12,7 +12,9 @@
 
 # SCREENSHOT
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anzclan/HAPROXY/main/photo_2023-01-19_23-03-30.jpg">
-  <img src="https://raw.githubusercontent.com/anzclan/HAPROXY/main/photo_2023-01-19_23-03-29.jpg">
+  <img src="https://raw.githubusercontent.com/anzclan/HAPROXY/main/ss1.jpg">
+  <img src="https://raw.githubusercontent.com/anzclan/HAPROXY/main/ss2.jpg">
+  <img src="https://raw.githubusercontent.com/anzclan/HAPROXY/main/ss3.jpg">
+  <img src="https://raw.githubusercontent.com/anzclan/HAPROXY/main/ss4.jpg">
 </p>
 
