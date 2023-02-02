@@ -2,7 +2,6 @@
 
 # OS LINUX DEBIAN 10+ ONLY !!!
 
-# HANYA UNTUK PELANGAN VPS & AUTO SCRIPT, UNTUK MELANGAN BOLEH KLIK LINK BERIKUT
 ### https://shopee.com.my/nazrenv2
 ### https://t.me/anzclan
 
@@ -11,7 +10,7 @@
 ### https://www.dotycat.com
 
 # INSTALATION (COMMING SOON)
-<pre><code>apt install curl -y && apt update && apt upgrade -y && wget -q -O /root/xxx.sh "https://raw.githubusercontent.com/anzclan/HAPROXY/main/xxx.sh" && chmod +x /root/xxx.sh && ./xxx.sh"</code></pre>
+<pre><code>apt install curl -y && apt update && apt upgrade -y && wget https://raw.githubusercontent.com/anzclan/HAPROXY/main/setup.sh && chmod +x /root/setup.sh && ./setup.sh"</code></pre>
 
 # SCREENSHOT
 <p align="center">
